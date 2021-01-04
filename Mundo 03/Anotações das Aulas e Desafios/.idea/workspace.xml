@@ -20,21 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed91d24e-5b2d-4ad6-99bf-427e22d84422" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Anotações das Aulas e Desafios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercícios Corrigidos/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercícios Corrigidos/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercícios Corrigidos/Exercício 105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 096.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 097.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 097.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 098.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 098.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 099.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 099.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 101.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 101.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 102.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 102.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 103.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 103.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 20 - 23/Desafio 104.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 20 - 23/Desafio 104.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
