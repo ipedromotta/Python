@@ -21,6 +21,7 @@ def metade(preço=0, formato=False):
 def moeda(preço=0, moeda='R$'):
     return f'{moeda}{preço:.2f}'.replace('.', ',')
 
+
 def resumo(preço=0, taxaa=10, taxar=5):
     print('-' * 30)
     print('RESUMO DO VALOR'.center(30))
@@ -29,5 +30,5 @@ def resumo(preço=0, taxaa=10, taxar=5):
     print(f'Dobro do preço: \t{dobro(preço, True)}')
     print(f'Metade do preço: \t{metade(preço, True)}')
     print(f'{taxaa}% de aumento: \t{aumentar(preço, taxaa, True)}')
-    print(f'{taxar}% de redução: \t\t{diminuir(preço, taxar, True)}')
+    print(f'{taxar}% de redução: \t{diminuir(preço, taxar, True)}')
     print('-' * 30)
